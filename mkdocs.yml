@@ -1,9 +1,57 @@
-site_name: theplanstore
+site_name: theplanstore docs
+site_description: Documentation for theplanstore web app
+site_author: Alan Ryan
+site_url: https://theplanstore.netlify.app
+
+repo_name: alanryn/theplanstore-docs
+repo_url: https://github.com/alanryn/theplanstore-docs
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: es
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+    - search.share
+
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+
+plugins:
+  - search
+
 nav:
   - Home: index.md
   - Admin: admin.md
-theme:
-  name: mkdocs
-  highlightjs: true
-  color_mode: dark
-  locale: es
+
