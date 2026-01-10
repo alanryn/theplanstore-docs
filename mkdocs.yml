@@ -1,0 +1,9 @@
+site_name: theplanstore
+nav:
+  - Home: index.md
+  - Admin: admin.md
+theme:
+  name: mkdocs
+  highlightjs: true
+  color_mode: dark
+  locale: es
