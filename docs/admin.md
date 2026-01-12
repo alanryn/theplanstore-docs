@@ -1,6 +1,6 @@
 # Admin
 
-Login in as an admin user
+## Iniciar sesión como usuario admin
 
 ## Overview
 
@@ -15,7 +15,7 @@ Login in as an admin user
 
 ## Cuentas
 
-![Amin Cuentas screen](img/cuentas-admin.png)
+![Admin Cuentas screen](img/cuentas-admin.png)
 
 ### Crear una nueva cuenta de usuario para una doctora / clínica
 
@@ -63,15 +63,15 @@ Cree una cuenta para un doctor o clínica. Esto generará una contraseña tempor
 
 ## Suscripciones
 
-## Patients
+## Pacientes
 
-## Products
+## Productos
 
-## Orders
+## Pedidos
 
 ## Prompts
 
-## Protocols
+## Protocolos
 
 ## Doctor FAQ
 
