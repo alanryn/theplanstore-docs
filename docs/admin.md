@@ -37,7 +37,7 @@ Cree una cuenta para un doctor o clínica. Esto generará una contraseña tempor
 | Gema | Seleccione el tipo de GEMA - Gema Tesigo o No Gema |
 | Identificador único del doctor |  Un código único para identificar a la doctora en planes. |
 | Stripe | Seleccione el plan de suscripción de Stripe (no se utiliza actualmente, se puede dejar vacío) |
-| Clínica | Seleccione una clínica principal. Esto se utiliza si hay una clínica con varios doctores. Cada docotr tiene una cuenta, pero se le asigna una clínica principal. Crear las Clínicas en [Clínicas](/admin/#admin/#clínicas)  |
+| Clínica | Seleccione una clínica principal. Esto se utiliza si hay una clínica con varios doctores. Cada docotr tiene una cuenta, pero se le asigna una clínica principal. Crear las Clínicas en [Clínicas](/admin/#clinicas)  |
 
 
 ![Shopify product setup](img/Shopify-Product-Settings.png)
