@@ -57,6 +57,8 @@ Cree una cuenta para un doctor o clínica. Esto generará una contraseña tempor
 
 ## Cestas
 
+## Tickets
+
 ## Clínicas
 
 ## Marcas/Agentes
