@@ -54,4 +54,5 @@ plugins:
 nav:
   - Home: index.md
   - Admin: admin.md
+  - Bubble.io: bubble.md
 
