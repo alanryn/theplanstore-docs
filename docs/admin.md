@@ -59,6 +59,36 @@ Cree una cuenta para un doctor o clínica. Esto generará una contraseña tempor
 
 ## Tickets
 
+
+![Admin Tickets screen](img/admin-tickets.png)
+
+### Crear un nuevo ticket para una doctora / clínica
+
+1. Un paciente envía una consulta al número de WhatsApp de atención al cliente.
+
+2. Crea un ticket para la consulta.
+
+| Nombre | Descripción |
+| ----------- | ----------- |
+| Título | Un título para el ticket |
+| Detalles | Los detalles de la consulta del paciente |
+| Subir archivos | Cargar cualquier archivo proporcionado por la paciente. |
+| Buscar doctores | Busque el médico del paciente y seleccione el médico/clínica de los resultados de la búsqueda |
+| Buscar pacientes | Busque al paciente y selecciónelo de los resultados de la búsqueda. |
+
+3. Tras crear el ticket, notifique al médico/clínica haciendo clic en el botón de asignación.
+
+4. El ticket aparecerá en la sección "Tickets" de la página principal del médico/clínica.
+
+5. El ticket mostrará el estado "PENDIENTE".
+
+6. Una vez que el médico/clínica lo haya marcado como "Visto", aparecerá como "VISTO".
+
+7. Cuando el médico/clínica haya añadido una respuesta, "RESPUESTA" será visible y la respuesta aparecerá en la lista de Tickets del administrador.
+
+8. La respuesta se puede copiar y enviar al paciente.
+
+
 ## Clínicas
 
 ## Marcas/Agentes
