@@ -93,6 +93,64 @@ Cree una cuenta para un doctor o clínica. Esto generará una contraseña tempor
 
 ## Marcas/Agentes
 
+![Admin Marcas screen](img/admin-marcas.png)
+
+### Añadir una nueva marca
+
+| Nombre | Descripción |
+| ----------- | ----------- |
+| Marca | El nombre de la marca que aparecerá en la página de inicio del Doctor |
+| CTA headline | Una llamada a la acción para que aparezca en la página de inicio si es necesario |
+| CTA tagline | Un subtítulo de llamada a la acción que aparecerá en la página de inicio si es necesario |
+| Instagram | La página de instagram de la marca |
+| Website | El sitio web de la marca |
+| Logotipo | El logotipo de la marca |
+| Banner grande | Una imagen de banner de la marca para ver en pantalla grande |
+| Banner pequeño | Una imagen de banner de la marca para ver en un teléfono móvil. |
+
+#### Otras opciones
+
+- Actualizar los detalles de la marca
+
+### Añadir un nuevo agente 
+
+Agregar un nuevo agente/representante para la marca
+
+| Nombre | Descripción |
+| ----------- | ----------- |
+| Nombre | El nombre del representante de la marca |
+| Email | El email del representante de la marca |
+| Tel| El teléfono del representante de la marca |
+| Whatsapp | El Whatsapp del representante de la marca |
+
+#### Otras opciones
+
+- Actualizar los detalles del agente
+- Eliminar el agente
+
+### Crear colección 
+
+Añadir una nueva colección de productos y asignar la colección a una marca
+
+| Nombre | Descripción |
+| ----------- | ----------- |
+| Nombre | El nombre de la colección de productos. Este nombre de colección aparecerá en la página del doctor. |
+| Marca | Seleccione una marca para la colección |
+| Texto adicional | Texto adicional para describir la colección. |
+| Lista de productos | Una lista de todos los productos disponiblesa |
+
+#### Otras opciones
+
+- Actualizar los detalles del colección
+- Eliminar el colección
+
+### Actualice la cuenta de usuario del doctor/clínica para incluir una marca y un agente
+
+Para completar el proceso actualice la cuenta de usuario con una marca y un agente.
+
+
+![Admin Marcas screen](img/user-account-marca.png)
+
 ## Suscripciones
 
 ## Pacientes
